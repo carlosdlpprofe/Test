@@ -6,7 +6,7 @@
 
 ## TEC-2 ##
 > IA visto Teachable Machine incluido.<br>
-> Revisado Teachable machine. <br  >
+> Revisado Teachable machine. <br>
 > Explicada la tarea que tienen de IA. <br>
 
 ## TEC-3 ##
