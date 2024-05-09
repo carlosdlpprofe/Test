@@ -15,4 +15,6 @@ Se valorará:
 - Presentación (exposición) del `proyecto` con la justificación del tema elegido, posibles aplicaciones prácticas, cómo mejorar el proyecto...
 - Presentación en Padlet, Genially, PowerPoint, Canva, ...  
 
-Tienen que trabajar todos juntos. Todos tienen que presentar.
+Tienen que trabajar todos juntos. 
+
+Todos tienen que presentar.
