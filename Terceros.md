@@ -13,3 +13,9 @@
 4. Se revisará el estado y funcionamiento del portátil. 
 5. Se revisará el contenido del Zumkit. 
 6. Se anotará cualquier incidencia en la `hoja de taller` que habrá que llevar **todos los días**. 
+
+SIEMPRE ocuparemos la misma mesa. 
+
+SIEMPRE se cogerá el mismo portátil y el mismo Zumkit.
+
+SIEMPRE se traerá la *hoja de taller*. 
