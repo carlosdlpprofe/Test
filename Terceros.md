@@ -19,3 +19,5 @@
 > SIEMPRE se cogerá el mismo portátil y el mismo Zumkit.
 
 > SIEMPRE se traerá la *hoja de taller*. 
+
+En el caso de coger un **ratón**, éste será el que tenga el mismo número que nuestro portátil. 
