@@ -21,3 +21,10 @@ Se valorará:
 Tienen que trabajar todos juntos.
 
 Todos tienen que presentar.
+
+## Apuntarse a un grupo ##
+
+Los alumnos tienen que inscribirse en uno de los grupos de 3 personas para poder realizar las prácticas.
+
+En el aula virtual de la materia encuentran un enlace a una hoja de cálculo donde podrán inscribirse ellos mismos y a los compañeros de trabajo.
+
