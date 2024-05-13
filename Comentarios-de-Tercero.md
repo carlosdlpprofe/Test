@@ -11,3 +11,4 @@ La pregunta es ¿por qué no utilizan los ejemplos y tareas anteriores para apre
 - El comportamiento en clase es _tremendamente_ malo. Contínuamente hablando a pesar de las reprimendas. El despiste en clase es permanente y generalizado aunque haya individualidades que atiendan. <br> 
 No importa los intercambios de sitios, cambios de compañeros de pupitre, la actitud no cambia.
 - **NO estudian**, NO toman apuntes, NO se molestan en ver el libro (aula virtual), NO se molestan en preguntar dudas (_porque todo es una duda_). 
+- Incluso durante los exámenes en papel en clase las preguntas van relacionadas con la **solución**. 
