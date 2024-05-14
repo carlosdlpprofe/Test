@@ -12,3 +12,4 @@ La pregunta es ¿por qué no utilizan los ejemplos y tareas anteriores para apre
 No importa los intercambios de sitios, cambios de compañeros de pupitre, la actitud no cambia.
 - **NO estudian**, NO toman apuntes, NO se molestan en ver el libro (aula virtual), NO se molestan en preguntar dudas (_porque todo es una duda_). 
 - Incluso durante los exámenes en papel en clase las preguntas van relacionadas con la **solución**. 
+- Ni aún cuando saben que van a ser _penalizados_ con tiempo extra, mejoran el comportamiento en clase. 
