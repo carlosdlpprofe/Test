@@ -10,4 +10,6 @@
 > Explicada la tarea que tienen de IA. <br>
 
 ## TEC-3 ##
-> IA visto hasta Teachable Machine.
+> IA visto hasta Teachable Machine. <br>
+> Revisado Teachable machine. <br>
+> Explicada la tarea que tiene de IA.
