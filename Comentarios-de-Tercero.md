@@ -16,6 +16,6 @@ Recopilación de detalles sobre comportamientos, anécdotas, comentarios de los 
 La pregunta es ¿por qué no utilizan los ejemplos y tareas anteriores para aprender, para preguntar?
 - El comportamiento en clase es _tremendamente_ malo. Contínuamente hablando a pesar de las reprimendas. El despiste en clase es permanente y generalizado aunque haya individualidades que atiendan. <br> 
 No importa los intercambios de sitios, cambios de compañeros de pupitre, la actitud no cambia.
-- **NO estudian**, NO toman apuntes, NO se molestan en ver el libro (aula virtual), NO se molestan en preguntar dudas (_porque todo es una duda_).
+- **NO estudian**, __NO__ toman apuntes, __NO__ se molestan en ver el libro (aula virtual), __NO__ se molestan en preguntar dudas (_porque todo es una duda_).
 - Incluso durante los exámenes en papel en clase las preguntas van relacionadas con la **solución**.
 - Ni aún cuando saben que van a ser _penalizados_ con tiempo extra, mejoran el comportamiento en clase.
