@@ -13,6 +13,8 @@
 > Revisado Teachable machine. <br>
 > Explicada la tarea que tienen de IA. <br>
 > Tienen grupos creados.
+> 
+> Explicado cómo funcionan los embeddings
 
 ## TEC-3 ##
 
@@ -20,4 +22,6 @@
 > Revisado Teachable machine. <br>
 > Explicada la tarea que tiene de IA. <br>
 > Tienen grupos creados. 
+>
+> Explicado cómo funciona los embeddings
 
