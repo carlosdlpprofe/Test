@@ -6,6 +6,8 @@
 > Visto Teachable machine completo. <br>
 > Explicada la tarea de IA. <br> 
 > Tienen grupos creados.
+>
+> Explicado cómo funcionan los embeddings
 
 ## TEC-2 ##
 
