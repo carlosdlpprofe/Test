@@ -1,5 +1,5 @@
 ---
-title: Comentarios 
+title: Práctica IA 
 author: C. de la Pisa 
 date: mayo 2024
 ---
