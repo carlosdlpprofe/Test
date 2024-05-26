@@ -24,6 +24,8 @@ Todos tienen que presentar.
 
 > La clase procuraremos tenerla o bien en el aula de informática asignada o bien en el taller.
 
+El profesor dará las indicaciones correspondientes para el cambio de aula.
+
 ## Apuntarse a un grupo ##
 
 Los alumnos tienen que inscribirse en uno de los grupos de 3 personas para poder realizar las prácticas.
