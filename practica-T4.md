@@ -20,7 +20,9 @@ Se valorará:
 
 Tienen que trabajar todos juntos.
 
-Todos tienen que presentar.
+Todos tienen que presentar. 
+
+> La clase procuraremos tenerla o bien en el aula de informática asignada o bien en el taller.
 
 ## Apuntarse a un grupo ##
 
