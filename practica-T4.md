@@ -39,3 +39,10 @@ Los alumnos tienen que inscribirse en uno de los grupos de 3 personas para poder
 
 En el aula virtual de la materia encuentran un enlace a una hoja de cálculo donde podrán inscribirse ellos mismos y a los compañeros de trabajo.
 
+## Exposición de trabajos ##
+
+Los trabajos serán expuestos los días __3, 4 y 5 de junio__
+
+## Examen FINAL ##
+
+Podrían tener un examen _`FINAL`_ de la asignatura el día __6 de junio__.
