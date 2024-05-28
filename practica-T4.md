@@ -41,7 +41,7 @@ En el aula virtual de la materia encuentran un enlace a una hoja de cálculo don
 
 ## Exposición de trabajos ##
 
-Los trabajos serán expuestos los días __3, 4 y 5 de junio__
+Los trabajos serán expuestos los días __4, 5, y 6 de junio__
 
 ## Examen FINAL ##
 
