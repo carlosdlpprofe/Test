@@ -43,6 +43,15 @@ En el aula virtual de la materia encuentran un enlace a una hoja de cálculo don
 
 Los trabajos serán expuestos los días __4, 5, y 6 de junio__
 
+## ¿Qué entregar? ##
+
+¿Qué tienes que entregar?
+
+- Archivo __.tm__ para poder regenerar el modelo que has creado. El nombre del archivo será `grupo-X.tm` donde X representa tu número de grupo.
+- La presentación que vais a hacer.
+    - Si es powerpoint o similar, entregarás una archivo en PDF
+    - Si está hecha con alguna aplicación online (web) entregarás el enlace (URL) a la presentación.
+
 ## Examen FINAL ##
 
 Podrían tener un examen _`FINAL`_ de la asignatura el día __6 de junio__.
