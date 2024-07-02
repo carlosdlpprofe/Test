@@ -27,3 +27,6 @@
 >
 > Explicado cómo funciona los embeddings
 
+____
+FIN DE CURSO
+____
