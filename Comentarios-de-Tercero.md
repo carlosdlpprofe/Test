@@ -46,5 +46,8 @@ Se ríe por todo; NO entiende nada; no hace esfuerzo por entender nada;
 Es listo, pero no se resiste a estar en clase haciéndose el ```gracioso``` cuando podría ser ejemplo para la clase.  
 En su mayoría, las `bromas` van dirigidas a las explicaciones o comentarios del profesor.
 
+----
+FIN DE CURSO
+----
 
 
