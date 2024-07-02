@@ -55,3 +55,7 @@ Los trabajos serán expuestos los días __4, 5, y 6 de junio__
 ## Examen FINAL ##
 
 Podrían tener un examen _`FINAL`_ de la asignatura el día __6 de junio__.
+
+----
+FIN DE CURSO
+----
